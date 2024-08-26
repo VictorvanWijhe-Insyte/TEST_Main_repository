@@ -1,0 +1,3 @@
+[submodule "TEST_Submodule"]
+	path = TEST_Submodule
+	url = git@github.com:VictorvanWijhe-Insyte/TEST_Submodule.git
